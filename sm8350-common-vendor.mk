@@ -561,6 +561,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.diag.hal.service.xml \
     vendor.qti.gnss@4.0-service.xml \
     vendor.xiaomi.hardware.citsensorservice@1.1-service.xml \
+    chargeonlymode \
     adpl \
     adsprpcd \
     cdsprpcd \
